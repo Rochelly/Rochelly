@@ -15,8 +15,12 @@ Meu nome é Rochelly e sou analista de tecnologia da informação do serviço p�
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=for-the-badge&logo=gnu-bash&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white&color=2bbc8a)
 
-## 📐 Projetos em Destaque
 
-<a href="https://github.com/Zhenye-Na/DA-RNN">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Rochelly&repo=Rox-Ipatables-Manager&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="DA-RNN" />
-</a>
+
+ ## 📐 Projetos em Destaque      
+<a href="https://github.com/Zhenye-Na/DA-RNN">  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Rochelly&repo=Rox-Ipatables-Manager&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="DA-RNN" /></a>
+<a href="https://github.com/Zhenye-Na/DA-RNN">  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Rochelly&repo=CIENCIA-DE-DADOS-APLICADA-AO-PISA-2018&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="DA-RNN" /></a>
+
+## 
+[![Rishit's github stats](https://github-readme-stats.vercel.app/api?username=Rochelly&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true)](https://github.com/Rishit-dagli)
+
