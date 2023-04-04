@@ -3,6 +3,7 @@
 <div align="justify">
   Meu nome é Rochelly e sou analista de tecnologia da informação do serviço público federal, especializado em redes de computadores e mestrado em Educação em Ciências, Matemática e Tecnologia. Sou um entusiasta de ethical hacking e apaixonado por Linux, em especial pelas distribuições Debian e Kali Linux. Utilizo Python para ciência de dados e para desenvolver ferramentas que facilitam a gestão de redes. Acredito firmemente na importância da colaboração e do código aberto para o avanço da comunidade de desenvolvedores. Em meu tempo livre, dedico-me a explorar novas tecnologias e a aprimorar minhas habilidades de hacking ético e programação.
   
+ ##  
  </div>
   <div align="justify">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rochelly&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true"/>
