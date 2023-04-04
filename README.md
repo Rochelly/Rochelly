@@ -34,8 +34,8 @@ My name is Rochelly and I am an information technology analyst for the federal p
 
  ## 📐 Highlighted Projects     
  <div align="justify">
-<a href="https://github.com/Zhenye-Na/DA-RNN">  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Rochelly&repo=Rox-Ipatables-Manager&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="DA-RNN" /></a>
-<a href="https://github.com/Zhenye-Na/DA-RNN">  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Rochelly&repo=CIENCIA-DE-DADOS-APLICADA-AO-PISA-2018&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="DA-RNN" /></a>
+<a href="https://github.com/Rochelly/Rox-Ipatables-Manager">  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Rochelly&repo=Rox-Ipatables-Manager&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="DA-RNN" /></a>
+<a href="https://github.com/Rochelly/CIENCIA-DE-DADOS-APLICADA-AO-PISA-2018">  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Rochelly&repo=CIENCIA-DE-DADOS-APLICADA-AO-PISA-2018&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="DA-RNN" /></a>
 </div>
 
 
