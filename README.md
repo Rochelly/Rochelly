@@ -1,6 +1,16 @@
 # Fala Galera!              <img  src="https://media.tenor.com/NeJfHqkmdMIAAAAi/tux-linux-penguin.gif" width="50px" height="50px" />
 
-Meu nome é Rochelly e sou analista de tecnologia da informação do serviço público federal, especializado em redes de computadores e mestrado em Educação em Ciências, Matemática e Tecnologia. Sou um entusiasta de ethical hacking e apaixonado por Linux, em especial pelas distribuições Debian e Kali Linux. Utilizo Python para ciência de dados e para desenvolver ferramentas que facilitam a gestão de redes. Acredito firmemente na importância da colaboração e do código aberto para o avanço da comunidade de desenvolvedores. Em meu tempo livre, dedico-me a explorar novas tecnologias e a aprimorar minhas habilidades de hacking ético e programação. 
+<div style="display:flex;">
+  <div style="flex:1; text-align: justify;">
+    Meu nome é Rochelly e sou analista de tecnologia da informação do serviço público federal, especializado em redes de computadores e mestrado em Educação em Ciências, Matemática e Tecnologia. Sou um entusiasta de ethical hacking e apaixonado por Linux, em especial pelas distribuições Debian e Kali Linux. Utilizo Python para ciência de dados e para desenvolver ferramentas que facilitam a gestão de redes. Acredito firmemente na importância da colaboração e do código aberto para o avanço da comunidade de desenvolvedores. Em meu tempo livre, dedico-me a explorar novas tecnologias e a aprimorar minhas habilidades de hacking ético e programação.
+  </div>
+  <div style="flex:1;">
+    <a href="https://github.com/Rochelly">
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rochelly&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true" />
+    </a>
+  </div>
+</div>
+
 
 ## 🔧 Tecnologias  & Ferramentas
 
@@ -22,5 +32,3 @@ Meu nome é Rochelly e sou analista de tecnologia da informação do serviço p�
 <a href="https://github.com/Zhenye-Na/DA-RNN">  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Rochelly&repo=CIENCIA-DE-DADOS-APLICADA-AO-PISA-2018&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="DA-RNN" /></a>
 
 ## 
-[![Rishit's github stats](https://github-readme-stats.vercel.app/api?username=Rochelly&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true)](https://github.com/Rishit-dagli)
-
