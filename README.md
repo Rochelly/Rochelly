@@ -1,7 +1,10 @@
-# Fala Galera!              <img  src="https://media.tenor.com/NeJfHqkmdMIAAAAi/tux-linux-penguin.gif" width="50px" height="50px" />
+# Hi guys!              <img  src="https://media.tenor.com/NeJfHqkmdMIAAAAi/tux-linux-penguin.gif" width="50px" height="50px" />
 
 <div align="justify">
-  Meu nome é Rochelly e sou analista de tecnologia da informação do serviço público federal, especializado em redes de computadores e mestrado em Educação em Ciências, Matemática e Tecnologia. Sou um entusiasta de ethical hacking e apaixonado por Linux, em especial pelas distribuições Debian e Kali Linux. Utilizo Python para ciência de dados e para desenvolver ferramentas que facilitam a gestão de redes. Acredito firmemente na importância da colaboração e do código aberto para o avanço da comunidade de desenvolvedores. Em meu tempo livre, dedico-me a explorar novas tecnologias e a aprimorar minhas habilidades de hacking ético e programação.
+  
+My name is Rochelly and I am an information technology analyst for the federal public service of Brazil, specializing in computer networks. I have a master's degree in Science, Mathematics, and Technology Education. I am an enthusiast of ethical hacking and passionate about Linux, especially the Debian and Kali Linux distributions. I use Python for data science and to develop tools that facilitate network management. I firmly believe in the importance of collaboration and open source code for the advancement of the developer community. In my free time, I dedicate myself to exploring new technologies and improving my skills in ethical hacking and programming.
+  
+🇧🇷 Meu nome é Rochelly e sou analista de tecnologia da informação do serviço público federal, especializado em redes de computadores. Tenho mestrado em Educação em Ciências, Matemática e Tecnologia. Sou entusiasta de ethical hacking e apaixonado por Linux, especialmente pelas distribuições Debian e Kali Linux. Utilizo Python para ciência de dados e para desenvolver ferramentas que facilitam a gestão de redes. Acredito firmemente na importância da colaboração e do código aberto para o avanço da comunidade de desenvolvedores. No meu tempo livre, dedico-me a explorar novas tecnologias e a aprimorar minhas habilidades de hacking ético e programação.
   
  ##  
  </div>
@@ -14,7 +17,7 @@
 
 
 
-## 🔧 Tecnologias  & Ferramentas
+## 🔧 Technologies and Tools
 
 ![](https://img.shields.io/badge/OS-Debian-informational?style=for-the-badge&logo=debian&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=linux&logoColor=white&color=2bbc8a)
@@ -29,7 +32,7 @@
 
 
 
- ## 📐 Projetos em Destaque      
+ ## 📐 Highlighted Projects     
  <div align="justify">
 <a href="https://github.com/Zhenye-Na/DA-RNN">  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Rochelly&repo=Rox-Ipatables-Manager&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="DA-RNN" /></a>
 <a href="https://github.com/Zhenye-Na/DA-RNN">  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Rochelly&repo=CIENCIA-DE-DADOS-APLICADA-AO-PISA-2018&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="DA-RNN" /></a>
