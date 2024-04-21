@@ -2,11 +2,11 @@
 
 <div align="justify">
   
-# My name is Rochelly and I am an information technology analyst for the federal public service of Brazil, specializing in computer networks. I have a master's degree in Science, Mathematics, and Technology Education. I am an enthusiast of ethical hacking and passionate about Linux, especially the Debian and Kali  distributions. I use Python for data science and to 
+<!-- My name is Rochelly and I am an information technology analyst for the federal public service of Brazil, specializing in computer networks. I have a master's degree in Science, Mathematics, and Technology Education. I am an enthusiast of ethical hacking and passionate about Linux, especially the Debian and Kali  distributions. I use Python for data science and to 
 develop tools that facilitate network management. I firmly believe in the importance of collaboration and open source code for the advancement of the developer community. In my free time, I dedicate myself to exploring new technologies and improving my skills in ethical hacking and programming.
   
-# 🇧🇷 Meu nome é Rochelly e sou analista de tecnologia da informação do serviço público federal, especializado em redes de computadores. Tenho mestrado em Educação em Ciências, Matemática e Tecnologia. Sou entusiasta de ethical hacking e apaixonado por Linux, especialmente pelas distribuições Debian e Kali. Utilizo Python para ciência de dados e para desenvolver ferramentas que facilitam a gestão de redes. Acredito firmemente na importância da colaboração e do código aberto para o avanço da comunidade de desenvolvedores. No meu tempo livre, dedico-me a explorar novas tecnologias e a aprimorar minhas habilidades de hacking ético e programação.
-  
+ 🇧🇷 Meu nome é Rochelly e sou analista de tecnologia da informação do serviço público federal, especializado em redes de computadores. Tenho mestrado em Educação em Ciências, Matemática e Tecnologia. Sou entusiasta de ethical hacking e apaixonado por Linux, especialmente pelas distribuições Debian e Kali. Utilizo Python para ciência de dados e para desenvolver ferramentas que facilitam a gestão de redes. Acredito firmemente na importância da colaboração e do código aberto para o avanço da comunidade de desenvolvedores. No meu tempo livre, dedico-me a explorar novas tecnologias e a aprimorar minhas habilidades de hacking ético e programação.
+  --!>
  ##  
  </div>
   <div align="justify">
