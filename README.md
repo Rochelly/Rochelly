@@ -1,7 +1,7 @@
 # Hi guys!              <img  src="https://media.tenor.com/NeJfHqkmdMIAAAAi/tux-linux-penguin.gif" width="50px" height="50px" />
 
 <div align="justify">
-  
+  🇧🇷 Meu nome é Rochelly e sou analista de tecnologia da informação do serviço público federal, especializado em redes de computadores. Tenho mestrado em Educação em Ciências, Matemática e Tecnologia. Sou apaixonado por Linux, especialmente pelas distribuições Debian e Kali. Utilizo Python para ciência de dados e para desenvolver ferramentas que facilitam a gestão de redes. Acredito firmemente na importância da colaboração e do código aberto para o avanço da comunidade de desenvolvedores. No meu tempo livre, dedico-me a explorar novas tecnologias e a aprimorar minhas habilidades de programação.
 
  ##  
  </div>
