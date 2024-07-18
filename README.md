@@ -5,11 +5,7 @@
 
  ##  
  </div>
-  <div align="justify">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rochelly&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rochelly&layout=compact&langs_count=15&theme=dark"/>
-</div>
-</div>
+ 
     
 
 
@@ -29,10 +25,6 @@
 
 
 
- ## 📐 Highlighted Projects     
- <div align="justify">
-<a href="https://github.com/Rochelly/Rox-Iptables-Manager">  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Rochelly&repo=Rox-Iptables-Manager&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="DA-RNN" /></a>
-<a href="https://github.com/Rochelly/CIENCIA-DE-DADOS-APLICADA-AO-PISA-2018">  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Rochelly&repo=CIENCIA-DE-DADOS-APLICADA-AO-PISA-2018&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="DA-RNN" /></a>
-</div>
+
 
 
