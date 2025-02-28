@@ -9,7 +9,7 @@
 ## 🔧 Technologies and Tools
 
 
-### 🎯 Operating Systems and Virtualization
+### 🖥️  Operating Systems and Virtualization
 ![](https://img.shields.io/badge/OS-Arch_Linux-2bbc8a?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![](https://img.shields.io/badge/OS-Kali_Linux-2bbc8a?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![](https://img.shields.io/badge/OS-Debian-2bbc8a?style=for-the-badge&logo=debian&logoColor=white)
@@ -18,7 +18,7 @@
 ![](https://img.shields.io/badge/Virtualization-KVM-2bbc8a?style=for-the-badge&logo=linux&logoColor=white)
 
 
-### 🔥 Networking, Security, and Monitoring
+### 🌐 Networking, Security, and Monitoring
 ![](https://img.shields.io/badge/Firewall-OPNsense-2bbc8a?style=for-the-badge&logo=pfsense&logoColor=white)
 ![](https://img.shields.io/badge/Firewall-Iptables-2bbc8a?style=for-the-badge&logo=linux&logoColor=white)
 ![](https://img.shields.io/badge/Security-Wireshark-2bbc8a?style=for-the-badge&logo=wireshark&logoColor=white)
